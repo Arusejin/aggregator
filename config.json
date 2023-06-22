@@ -1,0 +1,10 @@
+{
+  "log_file_path": "C:\\Program Files (x86)\\Apache24\\logs\\access.log",
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "aggregator",
+    "user": "postgres",
+    "password": "37"
+  }
+}
